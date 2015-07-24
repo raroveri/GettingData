@@ -1,6 +1,6 @@
 # The Code Book
 This file describes the variables, the data, and any transformations or work performed to clean up the data.
-This file is supposed to be used togheter with the script presented in run_analysis.R, in the sense that the complement each other, some part of the documentation is presented in the script in order to be clearer to the reader.
+This file is supposed to be used togheter with the script presented in run_analysis.R, in the sense that they complement each other, some part of the documentation is presented in the script in order to be clearer to the reader.
 
 # Summary of steps and resulting variables
 ## Steps
