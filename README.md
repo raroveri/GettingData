@@ -20,5 +20,9 @@ The script does the following:
   4. Appropriately labels the data set with descriptive variable names. 
   5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+After sourcing the file, the main function to be called is analize(). The function will create a directory called 'merged' if it doesn't exist and it will save there 2 files:
+  * tidy_ds.txt - the resulting data set resulting of steps 1, 2, 3 and 4.
+  * tidy_mean_ds.txt - the data set described in step 5.
+
 # The Code Book
 In this repo we also have a code book, called CodeBook.md, that describes the variables, the data, and any transformations or work performed to clean up the data.
